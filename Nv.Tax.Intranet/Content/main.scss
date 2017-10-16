@@ -1,7 +1,13 @@
 ﻿// Font Awesome 
+@import "css/vendor/font-awesome/font-awesome.scss";
 
-@import "base/_vars.scss";
-@import "base/_mixins.scss";
-@import "base/_misc.scss";
-@import "base/_home.scss";
-@import "base/_app.scss";
+// Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|MerriWwather+Sans');
+
+@import "css/base/_vars.scss";
+@import "css/base/_mixins.scss";
+@import "css/base/_misc.scss";
+@import "css/base/_home.scss";
+@import "css/base/_app.scss";
+@import "css/base/_menu.scss";
+@import "css/base/_header.scss";
